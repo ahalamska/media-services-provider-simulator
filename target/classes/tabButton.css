@@ -1,0 +1,13 @@
+.button:hover{
+    -fx-opacity: 1;
+}
+.button:selected{
+-fx-background-radius: 15 0 0 0;
+-fx-opacity: 0.8;
+-fx-background-color:  #4a6b6b
+}
+.button{
+    -fx-background-radius: 15 0 15 0;
+    -fx-opacity: 0.6;
+
+}
